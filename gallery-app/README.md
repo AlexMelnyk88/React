@@ -1,3 +1,5 @@
+<img src="image/image1.jpg" width=500 height=500>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
