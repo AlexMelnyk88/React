@@ -3,7 +3,9 @@
 <h1>Description:</h1>
 <p> This modern gallery project is able to find any pictures you like in high quality. You can click on the picture and will see an image in larger size.</p>
 
-
+<h5>Notice</h5>
+<p>If you are going to download the project read the file index.js<p>
+  
 <h3><a href="https://modern-gallery-app.netlify.com/">HERE THE LINK TO SEE PROJECT ONLINE</a></h3>
 
 
