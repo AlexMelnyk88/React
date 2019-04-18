@@ -1,5 +1,5 @@
-<img src="image/image1.jpg">
-<img src="image/image2.jpg">
+<img src="images/image1.jpg">
+<img src="images/image2.jpg">
 <h1>Description:</h1>
 <p> </P>
 
