@@ -3,6 +3,8 @@
 <h1>Description:</h1>
 <p>That is a project where you can type any words and find photos related to what you've typed if photos are not found you'll see an error message. </P>
 
+<h5>Notice</h5>
+<p>If you are going to download the project read the file index.js<p>
 <h3><a href="https://gallery-app.netlify.com">HERE THE LINK TO SEE PROJECT ONLINE</a></h3>
 ------------------------------------------------------------------------------------------------------------
 
