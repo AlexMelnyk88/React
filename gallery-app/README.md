@@ -3,7 +3,7 @@
 <h1>Description:</h1>
 <p>That is a project where you can type any words and find photos related to what you've typed if photos are not found you'll see an error message. </P>
 
-<a href="https://gallery-app.netlify.com">HERE THE LINK TO SEE PROJECT ONLINE</a>
+<h3><a href="https://gallery-app.netlify.com">HERE THE LINK TO SEE PROJECT ONLINE</a></h3>
 ------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
