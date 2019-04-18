@@ -5,7 +5,6 @@
 
 <h3><a href="https://gallery-app.netlify.com">HERE THE LINK TO SEE PROJECT ONLINE</a></h3>
 ------------------------------------------------------------------------------------------------------------
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
