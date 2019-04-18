@@ -3,7 +3,7 @@
 <h1>Description:</h1>
 <p> </P>
 
-<h1><a href="https://modern-gallery-app.netlify.com/">HERE THE LINK TO SEE PROJECT ONLINE</a></h1>
+<h3><a href="https://modern-gallery-app.netlify.com/">HERE THE LINK TO SEE PROJECT ONLINE</a></h3>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
