@@ -1,7 +1,7 @@
-<img src="image/image1.jpg" width=1000 height=500>
-<img src="image/image2.jpg" width=1000 height=500>
+<img src="image/image1.jpg">
+<img src="image/image2.jpg">
 <h1>Description:</h1>
-<p>That is a project where you can type any words and find photos related to what you've typed if photos are not found you'll see an error message. </P>
+<p> </P>
 
 <a href="https://modern-gallery-app.netlify.com/">HERE THE LINK TO SEE PROJECT ONLINE</a>
 
