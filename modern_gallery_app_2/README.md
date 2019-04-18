@@ -1,7 +1,8 @@
 <img src="images/image1.jpg">
 <img src="images/image2.jpg">
 <h1>Description:</h1>
-<p> </P>
+<p> This modern gallery project is able to find any pictures you like in high quality. You can click on the picture and will see an image in larger size.</p>
+
 
 <h3><a href="https://modern-gallery-app.netlify.com/">HERE THE LINK TO SEE PROJECT ONLINE</a></h3>
 
